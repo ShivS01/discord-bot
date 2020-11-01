@@ -43,4 +43,4 @@ async def compliment(ctx, member: discord.Member):
 
 
 # runs bot
-bot.run("${token}")
+bot.run(key)
